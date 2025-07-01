@@ -1,0 +1,195 @@
+# 贴图组信息字典
+# 前缀: 夏空lod贴图dump
+texture_groups = {
+    # 贴图组 夏空lod贴图dump_1 (BC7_UNORM_SRGB)
+    '夏空lod贴图dump_1': {
+        'lod0_hash': 'fe853fcf',
+        'other_lods': {
+            'lod1': '2df6d019',
+            'lod2': '96b52914',
+            'lod3': '6d1c2767',
+            'lod4': '7fd84651',
+            'lod5': '24b63643',
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 夏空lod贴图dump_2 (BC7_UNORM_SRGB)
+    '夏空lod贴图dump_2': {
+        'lod0_hash': 'd79a3f55',
+        'other_lods': {
+            'lod1': 'cf148a32',
+            'lod2': '433de7fd',
+            'lod3': 'd605144e',
+            'lod4': 'e481b52c',
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 夏空lod贴图dump_3 (BC1_UNORM)
+    '夏空lod贴图dump_3': {
+        'lod0_hash': 'ea49c595',
+        'other_lods': {
+            'lod1': 'ea49c595',
+            'lod2': '09f6969e',
+            'lod3': '86144374',
+            'lod4': 'fd918318',
+        },
+        'format': 'BC1_UNORM',
+    },
+
+    # 贴图组 夏空lod贴图dump_4 (BC7_UNORM_SRGB)
+    '夏空lod贴图dump_4': {
+        'lod0_hash': 'c235c6a7',
+        'other_lods': {
+            'lod1': 'c235c6a7',
+            'lod2': '3ef86e38',
+            'lod3': 'c259cd57',
+            'lod4': '7bfbde03',
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 夏空lod贴图dump_5 (BC7_UNORM)
+    '夏空lod贴图dump_5': {
+        'lod0_hash': '748f8d97',
+        'other_lods': {
+            'lod1': '6e427c76',
+            'lod2': '722cfd5b',
+            'lod3': '754c23e8',
+        },
+        'format': 'BC7_UNORM',
+    },
+
+    # 贴图组 夏空lod贴图dump_6 (BC7_UNORM)
+    '夏空lod贴图dump_6': {
+        'lod0_hash': '3b5e4a9b',
+        'other_lods': {
+            'lod1': '794a9112',
+            'lod2': '8407a833',
+            'lod3': '73611ec3',
+        },
+        'format': 'BC7_UNORM',
+    },
+
+    # 贴图组 夏空lod贴图dump_7 (BC7_UNORM_SRGB)
+    '夏空lod贴图dump_7': {
+        'lod0_hash': 'cca1af56',
+        'other_lods': {
+            'lod1': 'e10d6e9a',
+            'lod2': 'bdf28bff',
+            'lod3': 'baef600f',
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 夏空lod贴图dump_8 (BC1_UNORM)
+    '夏空lod贴图dump_8': {
+        'lod0_hash': 'cf8ac68f',
+        'other_lods': {
+            'lod1': 'cf8ac68f',
+            'lod2': '30f39328',
+            'lod3': '3c632878',
+        },
+        'format': 'BC1_UNORM',
+    },
+
+    # 贴图组 夏空lod贴图dump_9 (BC7_UNORM_SRGB)
+    '夏空lod贴图dump_9': {
+        'lod0_hash': '1e072c24',
+        'other_lods': {
+            'lod1': '5d57e3c0',
+            'lod2': '5204e28a',
+            'lod3': 'e1fc1fd3',
+            'lod4': '61c89145',
+            'lod5': '6b82b7ce',
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 夏空lod贴图dump_10 (BC7_UNORM)
+    '夏空lod贴图dump_10': {
+        'lod0_hash': '09e98e33',
+        'other_lods': {
+            'lod1': '5db18858',
+            'lod2': 'd6265bd2',
+            'lod3': '4c80750f',
+            'lod4': 'e6a6f214',
+            'lod5': '4171c7da',
+        },
+        'format': 'BC7_UNORM',
+    },
+
+    # 贴图组 夏空lod贴图dump_11 (BC7_UNORM_SRGB)
+    '夏空lod贴图dump_11': {
+        'lod0_hash': '4e1fdf28',
+        'other_lods': {
+            'lod1': 'bc5d2ac2',
+            'lod2': 'c99946c1',
+            'lod3': '5bc4d7cf',
+            'lod4': '4aa868c5',
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 夏空lod贴图dump_12 (BC7_UNORM_SRGB)
+    '夏空lod贴图dump_12': {
+        'lod0_hash': '852b2b72',
+        'other_lods': {
+            'lod1': '050935a1',
+            'lod2': '0077f3fc',
+            'lod3': '9d7a0ec5',
+            'lod4': '027ef2e5',
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 夏空lod贴图dump_13 (BC1_UNORM)
+    '夏空lod贴图dump_13': {
+        'lod0_hash': '32271b48',
+        'other_lods': {
+            'lod1': '5e81cffc',
+            'lod2': 'c7bde485',
+            'lod3': 'aca21cc3',
+            'lod4': '0e8c4cc4',
+        },
+        'format': 'BC1_UNORM',
+    },
+
+    # 贴图组 夏空lod贴图dump_14 (BC7_UNORM_SRGB)
+    '夏空lod贴图dump_14': {
+        'lod0_hash': '4c379f61',
+        'other_lods': {
+            'lod1': 'f9c83f3b',
+            'lod2': 'e09ab98b',
+            'lod3': '0b9847bc',
+            'lod4': 'ad833bad',
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 夏空lod贴图dump_15 (BC7_UNORM_SRGB)
+    '夏空lod贴图dump_15': {
+        'lod0_hash': '2f590d3f',
+        'other_lods': {
+            'lod1': 'ff3c7f0b',
+            'lod2': 'f89248f8',
+            'lod3': 'f130f86d',
+            'lod4': '83469c23',
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 夏空lod贴图dump_16 (BC7_UNORM)
+    '夏空lod贴图dump_16': {
+        'lod0_hash': '4358f290',
+        'other_lods': {
+            'lod1': '3633621c',
+            'lod2': '520fc78a',
+            'lod3': '549aa4eb',
+            'lod4': 'de1c398b',
+        },
+        'format': 'BC7_UNORM',
+    },
+
+}
