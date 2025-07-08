@@ -1,0 +1,214 @@
+# 贴图组信息字典
+# 前缀: 长离
+texture_groups = {
+    # 贴图组 长离_1 (BC7_UNORM)
+    '长离_1': {
+        'lod0_hash': '00e5703f',  # 4.00MB
+        'other_lods': {
+            'lod1': 'd2010c7b',  # 256.14KB
+            'lod2': 'cb0d409c',  # 16.14KB
+        },
+        'format': 'BC7_UNORM',
+    },
+
+    # 贴图组 长离_2 (BC1_UNORM)
+    '长离_2': {
+        'lod0_hash': '05187cd9',  # 512.12KB
+        'other_lods': {
+            'lod1': '0f7501fd',  # 32.12KB
+            'lod2': '6ecc663a',  # 8.12KB
+            'lod3': '183440f6',  # 2.12KB
+        },
+        'format': 'BC1_UNORM',
+    },
+
+    # 贴图组 长离_3 (BC1_UNORM)
+    '长离_3': {
+        'lod0_hash': '998bc53c',  # 512.12KB
+        'other_lods': {
+            'lod1': '06ae348b',  # 128.12KB
+            'lod2': '32bfad78',  # 32.12KB
+            'lod3': 'd2ce61bf',  # 8.12KB
+        },
+        'format': 'BC1_UNORM',
+    },
+
+    # 贴图组 长离_4 (BC7_UNORM_SRGB)
+    '长离_4': {
+        'lod0_hash': 'a260e7f7',  # 4.00MB
+        'other_lods': {
+            'lod1': '0deeca89',  # 1.00MB
+            'lod2': 'b389afb2',  # 256.14KB
+            'lod3': 'a730e45c',  # 64.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 长离_5 (BC7_UNORM_SRGB)
+    '长离_5': {
+        'lod0_hash': '1cda103e',  # 256.14KB
+        'other_lods': {
+            'lod1': 'd1d7213c',  # 64.14KB
+            'lod2': '2e07811b',  # 16.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 长离_6 (BC7_UNORM_SRGB)
+    '长离_6': {
+        'lod0_hash': 'd6f4003a',  # 4.00MB
+        'other_lods': {
+            'lod1': '32fc4839',  # 1.00MB
+            'lod2': '54d0e6eb',  # 256.14KB
+            'lod3': '19315502',  # 64.14KB
+            'lod4': '223d6740',  # 16.14KB
+            'lod5': 'e15248d7',  # 4.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 长离_7 (BC7_UNORM_SRGB)
+    '长离_7': {
+        'lod0_hash': '225aad5a',  # 4.00MB
+        'other_lods': {
+            'lod1': 'a6722980',  # 64.14KB
+            'lod2': 'fd734058',  # 16.14KB
+            'lod3': 'f9cb9d5f',  # 4.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 长离_8 (BC1_UNORM_SRGB)
+    '长离_8': {
+        'lod0_hash': '2782d638',  # 2.00MB
+        'other_lods': {
+            'lod1': 'c0db9b63',  # 512.14KB
+        },
+        'format': 'BC1_UNORM_SRGB',
+    },
+
+    # 贴图组 长离_9 (BC7_UNORM_SRGB)
+    '长离_9': {
+        'lod0_hash': 'a45bfe26',  # 4.00MB
+        'other_lods': {
+            'lod1': '507efec0',  # 256.14KB
+            'lod2': '28f01350',  # 64.14KB
+            'lod3': 'ca8665c5',  # 16.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 长离_11 (BC7_UNORM_SRGB)
+    '长离_11': {
+        'lod0_hash': '93fa9afa',  # 4.00MB
+        'other_lods': {
+            'lod1': 'dc1a7984',  # 512.14KB
+            'lod2': '3cc33b35',  # 256.14KB
+            'lod3': '4dde47a8',  # 64.14KB
+            'lod4': '87830820',  # 16.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 长离_12 (BC7_UNORM)
+    '长离_12': {
+        'lod0_hash': 'f23483e3',  # 4.00MB
+        'other_lods': {
+            'lod1': 'a0746c46',  # 1.00MB
+            'lod2': '193854d3',  # 256.14KB
+            'lod3': '5d399b9c',  # 64.14KB
+        },
+        'format': 'BC7_UNORM',
+    },
+
+    # 贴图组 长离_13 (0 t=8094e3ca)
+    '长离_13': {
+        'lod0_hash': 'Components',  # 4.00MB
+        'other_lods': {
+            'lod1': '9b8e7974',  # 256.14KB
+            'lod2': '6dd3d199',  # 64.14KB
+            'lod3': 'eb6643a0',  # 16.14KB
+            'lod4': '5d1b59c1',  # 4.14KB
+        },
+        'format': '0 t=8094e3ca',
+    },
+
+    # 贴图组 长离_14 (BC1_UNORM)
+    '长离_14': {
+        'lod0_hash': 'dfe134cd',  # 512.12KB
+        'other_lods': {
+            'lod1': '73512aa9',  # 128.12KB
+            'lod2': 'c2dce520',  # 32.12KB
+        },
+        'format': 'BC1_UNORM',
+    },
+
+    # 贴图组 长离_15 (BC7_UNORM_SRGB)
+    '长离_15': {
+        'lod0_hash': 'c02dbf56',  # 4.00MB
+        'other_lods': {
+            'lod1': 'fcdebc43',  # 1.00MB
+            'lod2': '90530e5e',  # 256.14KB
+            'lod3': 'be9fb5fe',  # 64.14KB
+            'lod4': 'b66b8c6c',  # 16.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 长离_16 (BC7_UNORM_SRGB)
+    '长离_16': {
+        'lod0_hash': 'eb70f116',  # 4.00MB
+        'other_lods': {
+            'lod1': 'c80bcee8',  # 16.14KB
+            'lod2': 'cab6521d',  # 4.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 长离_18 (1 t=92c11772)
+    '长离_18': {
+        'lod0_hash': 'Components',  # 256.14KB
+        'other_lods': {
+            'lod1': 'd1d7213c',  # 64.14KB
+        },
+        'format': '1 t=92c11772',
+    },
+
+    # 贴图组 长离_19 (1 t=6f7a2dab)
+    '长离_19': {
+        'lod0_hash': 'Components',  # 4.00MB
+        'other_lods': {
+        },
+        'format': '1 t=6f7a2dab',
+    },
+
+    # 贴图组 长离_20 (BC1_UNORM_SRGB)
+    '长离_20': {
+        'lod0_hash': 'dc1a7984',  # 512.14KB
+        'other_lods': {
+            'lod1': 'e0b2f0d3',  # 512.14KB
+        },
+        'format': 'BC1_UNORM_SRGB',
+    },
+
+    # 贴图组 长离_22 (BC7_UNORM_SRGB)
+    '长离_22': {
+        'lod0_hash': '7fe27a57',  # 1.00MB
+        'other_lods': {
+            'lod1': 'c235c6a7',  # 1.00MB
+            'lod2': 'f3fc1685',  # 4.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 长离_23 (BC7_UNORM)
+    '长离_23': {
+        'lod0_hash': 'f98c7e7c',  # 4.00MB
+        'other_lods': {
+            'lod1': '4e915e91',  # 1.00MB
+            'lod2': '0ed4a10c',  # 256.14KB
+        },
+        'format': 'BC7_UNORM',
+    },
+
+}
