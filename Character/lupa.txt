@@ -1,0 +1,193 @@
+# 贴图组信息字典
+# 前缀: 露帕
+texture_groups = {
+    # 贴图组 露帕_1 (BC7_UNORM_SRGB)
+    '露帕_1': {
+        'lod0_hash': 'c347ca65',  # 4.00MB
+        'other_lods': {
+            'lod1': 'db2e7e07',  # 256.14KB
+            'lod2': '26a6e9cb',  # 64.14KB
+            'lod3': '007a9a16',  # 16.14KB
+            'lod4': '2f33025a',  # 4.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 露帕_2 (BC7_UNORM_SRGB)
+    '露帕_2': {
+        'lod0_hash': 'bd1bcfd8',  # 4.00MB
+        'other_lods': {
+            'lod1': '1f018609',  # 1.00MB
+            'lod2': '0749de27',  # 256.14KB
+            'lod3': 'e6e98573',  # 64.14KB
+            'lod4': 'ace548c3',  # 16.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 露帕_3 (BC7_UNORM_SRGB)
+    '露帕_3': {
+        'lod0_hash': '62ef42ef',  # 4.00MB
+        'other_lods': {
+            'lod1': 'defc8f0b',  # 1.00MB
+            'lod2': '09e4dfac',  # 256.14KB
+            'lod3': '1753c94c',  # 64.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 露帕_4 (BC7_UNORM)
+    '露帕_4': {
+        'lod0_hash': 'e4638507',  # 4.00MB
+        'other_lods': {
+            'lod1': '0cc600b6',  # 1.00MB
+            'lod2': 'bdba6b06',  # 256.14KB
+            'lod3': '22ece903',  # 64.14KB
+            'lod4': 'b6d542b2',  # 16.14KB
+        },
+        'format': 'BC7_UNORM',
+    },
+
+    # 贴图组 露帕_5 (BC7_UNORM_SRGB)
+    '露帕_5': {
+        'lod0_hash': '53b0c79c',  # 4.00MB
+        'other_lods': {
+            'lod1': '0feda44a',  # 1.00MB
+            'lod2': '61ef47e2',  # 256.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 露帕_6 (BC7_UNORM_SRGB)
+    '露帕_6': {
+        'lod0_hash': '1b7cac73',  # 4.00MB
+        'other_lods': {
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 露帕_7 (BC1_UNORM)
+    '露帕_7': {
+        'lod0_hash': '248b354f',  # 512.12KB
+        'other_lods': {
+            'lod1': '7a8e6212',  # 512.12KB
+            'lod2': '50898119',  # 128.12KB
+            'lod3': '8c9706f9',  # 32.12KB
+            'lod4': 'f48c162e',  # 8.12KB
+            'lod5': 'bf21d0f6',  # 2.12KB
+        },
+        'format': 'BC1_UNORM',
+    },
+
+    # 贴图组 露帕_8 (BC7_UNORM_SRGB)
+    '露帕_8': {
+        'lod0_hash': '84206d9f',  # 4.00MB
+        'other_lods': {
+            'lod1': '390293a6',  # 1.00MB
+            'lod2': 'adcc545b',  # 256.14KB
+            'lod3': '3728d488',  # 64.14KB
+            'lod4': '9e698270',  # 16.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 露帕_9 (BC7_UNORM)
+    '露帕_9': {
+        'lod0_hash': '79b6c3f4',  # 4.00MB
+        'other_lods': {
+            'lod1': '3f536906',  # 1.00MB
+            'lod2': '657902c7',  # 256.14KB
+            'lod3': '74577649',  # 64.14KB
+        },
+        'format': 'BC7_UNORM',
+    },
+
+    # 贴图组 露帕_10 (BC7_UNORM_SRGB)
+    '露帕_10': {
+        'lod0_hash': '77ba7584',  # 4.00MB
+        'other_lods': {
+            'lod1': 'ce73e758',  # 256.14KB
+            'lod2': '84d288a6',  # 64.14KB
+            'lod3': '59f4ed4e',  # 16.14KB
+            'lod4': '44b816b8',  # 4.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 露帕_11 (BC7_UNORM)
+    '露帕_11': {
+        'lod0_hash': '6f70c428',  # 4.00MB
+        'other_lods': {
+            'lod1': 'ba21b0d3',  # 1.00MB
+            'lod2': 'c36c06da',  # 256.14KB
+            'lod3': '630c3b2a',  # 64.14KB
+        },
+        'format': 'BC7_UNORM',
+    },
+
+    # 贴图组 露帕_12 (BC1_UNORM)
+    '露帕_12': {
+        'lod0_hash': 'eb3b4396',  # 512.12KB
+        'other_lods': {
+            'lod1': '94cfe703',  # 128.12KB
+            'lod2': 'b21272c3',  # 32.12KB
+        },
+        'format': 'BC1_UNORM',
+    },
+
+    # 贴图组 露帕_13 (BC7_UNORM_SRGB)
+    '露帕_13': {
+        'lod0_hash': 'e541ab4b',  # 4.00MB
+        'other_lods': {
+            'lod1': '9e3238a9',  # 1.00MB
+            'lod2': 'fc9fd678',  # 256.14KB
+            'lod3': 'b96130ff',  # 64.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 露帕_14 (BC7_UNORM_SRGB)
+    '露帕_14': {
+        'lod0_hash': 'eb4d05bb',  # 4.00MB
+        'other_lods': {
+            'lod1': 'bf4860d2',  # 1.00MB
+            'lod2': 'b6559bd6',  # 256.14KB
+            'lod3': 'fb076312',  # 64.14KB
+            'lod4': 'd0466b71',  # 16.14KB
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 露帕_15 (BC7_UNORM_SRGB)
+    '露帕_15': {
+        'lod0_hash': 'c235c6a7',  # 1.00MB
+        'other_lods': {
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 露帕_16 (BC7_UNORM_SRGB)
+    '露帕_16': {
+        'lod0_hash': 'f1449e9e',  # 4.00MB
+        'other_lods': {
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 露帕_17 (BC7_UNORM_SRGB)
+    '露帕_17': {
+        'lod0_hash': 'f3fc1685',  # 4.14KB
+        'other_lods': {
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 露帕_18 (BC7_UNORM)
+    '露帕_18': {
+        'lod0_hash': 'fc4e944d',  # 4.00MB
+        'other_lods': {
+        },
+        'format': 'BC7_UNORM',
+    },
+
+}
