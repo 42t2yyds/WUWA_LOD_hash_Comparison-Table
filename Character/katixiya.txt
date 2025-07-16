@@ -1,150 +1,167 @@
 # 贴图组信息字典
 # 前缀: 卡提希娅
 texture_groups = {
-    # 贴图组 卡提希娅_1 (2 t=8e7433fa)
+    # 贴图组 卡提希娅_1 (BC1_UNORM)
     '卡提希娅_1': {
-        'lod0_hash': 'Components',  # 512.12KB
+        'lod0_hash': '8e7433fa',
         'other_lods': {
-            'lod1': 'c07b6f04',  # 8.12KB
-            'lod2': '00b7b711',  # 2.12KB
+            'lod1': 'c07b6f04',
+            'lod2': '00b7b711',
         },
-        'format': '2 t=8e7433fa',
+        'format': 'BC1_UNORM',
     },
 
-    # 贴图组 卡提希娅_2 (4 t=fd0268ad)
+    # 贴图组 卡提希娅_2 (BC7_UNORM_SRGB)
     '卡提希娅_2': {
-        'lod0_hash': 'Components',  # 4.00MB
+        'lod0_hash': 'fd0268ad',
         'other_lods': {
-            'lod1': '784c7079',  # 256.14KB
-            'lod2': '46af7db0',  # 64.14KB
-            'lod3': '05cdf090',  # 16.14KB
+            'lod1': '784c7079',
+            'lod2': '46af7db0',
+            'lod3': '05cdf090',
         },
-        'format': '4 t=fd0268ad',
+        'format': 'BC7_UNORM_SRGB',
     },
 
-    # 贴图组 卡提希娅_3 (5 t=ae8fd5fb)
+    # 贴图组 卡提希娅_3 (BC7_UNORM_SRGB)
     '卡提希娅_3': {
-        'lod0_hash': 'Components',  # 4.00MB
+        'lod0_hash': 'ae8fd5fb',
         'other_lods': {
-            'lod1': '08eae7f1',  # 1.00MB
-            'lod2': 'aba13d45',  # 256.14KB
-            'lod3': 'f61818b2',  # 64.14KB
-            'lod4': '101b65fd',  # 16.14KB
+            'lod1': '08eae7f1',
+            'lod2': 'aba13d45',
+            'lod3': 'f61818b2',
+            'lod4': '101b65fd',
         },
-        'format': '5 t=ae8fd5fb',
+        'format': 'BC7_UNORM_SRGB',
     },
 
-    # 贴图组 卡提希娅_4 (1 t=3ff8b56e)
+    # 贴图组 卡提希娅_4 (BC7_UNORM_SRGB)
     '卡提希娅_4': {
-        'lod0_hash': 'Components',  # 4.00MB
+        'lod0_hash': '3ff8b56e',
         'other_lods': {
-            'lod1': '360b6733',  # 1.00MB
-            'lod2': 'Components',  # 512.14KB
-            'lod3': '799939ca',  # 256.14KB
-            'lod4': '0e55ba41',  # 64.14KB
+            'lod1': '360b6733',
+            'lod2': 'c17eb9f5',
+            'lod3': '799939ca',
+            'lod4': '0e55ba41',
         },
-        'format': '1 t=3ff8b56e',
+        'format': 'BC7_UNORM_SRGB',
     },
 
-    # 贴图组 卡提希娅_5 (6 t=241a6fbe)
+    # 贴图组 卡提希娅_5 (BC7_UNORM_SRGB)
     '卡提希娅_5': {
-        'lod0_hash': 'Components',  # 4.00MB
+        'lod0_hash': '241a6fbe',
         'other_lods': {
-            'lod1': '22a3d32b',  # 4.14KB
+            'lod1': '22a3d32b',
         },
-        'format': '6 t=241a6fbe',
+        'format': 'BC7_UNORM_SRGB',
     },
 
-    # 贴图组 卡提希娅_6 (3 t=7ef7dba9)
+    # 贴图组 卡提希娅_6 (BC1_UNORM)
     '卡提希娅_6': {
-        'lod0_hash': 'Components',  # 512.12KB
+        'lod0_hash': '7ef7dba9',
         'other_lods': {
-            'lod1': '8215082b',  # 128.12KB
-            'lod2': '2f15136d',  # 32.12KB
-            'lod3': '522a0997',  # 8.12KB
+            'lod1': '8215082b',
+            'lod2': '2f15136d',
+            'lod3': '522a0997',
         },
-        'format': '3 t=7ef7dba9',
+        'format': 'BC1_UNORM',
     },
 
-    # 贴图组 卡提希娅_7 (0 t=64cd06f9)
+    # 贴图组 卡提希娅_7 (BC3_UNORM_SRGB)
     '卡提希娅_7': {
-        'lod0_hash': 'Components',  # 4.00MB
+        'lod0_hash': '64cd06f9',
         'other_lods': {
-            'lod1': '304ee84f',  # 1.00MB
-            'lod2': 'f7bcce71',  # 16.14KB
-            'lod3': '84277b72',  # 4.14KB
+            'lod1': '304ee84f',
+            'lod2': 'f7bcce71',
+            'lod3': '84277b72',
         },
-        'format': '0 t=64cd06f9',
+        'format': 'BC3_UNORM_SRGB',
     },
 
-    # 贴图组 卡提希娅_9 (5 t=b0d30838)
+    # 贴图组 卡提希娅_8 (BC7_UNORM_SRGB)
+    '卡提希娅_8': {
+        'lod0_hash': '36448775',
+        'other_lods': {
+            'lod1': '36448775',
+        },
+        'format': 'BC7_UNORM_SRGB',
+    },
+
+    # 贴图组 卡提希娅_9 (BC7_UNORM)
     '卡提希娅_9': {
-        'lod0_hash': 'Components',  # 4.00MB
+        'lod0_hash': 'b0d30838',
         'other_lods': {
-            'lod1': 'fefe4ef1',  # 1.00MB
-            'lod2': 'a6439e10',  # 256.14KB
-            'lod3': '6f152a20',  # 64.14KB
-            'lod4': '5b610f5d',  # 16.14KB
+            'lod1': 'fefe4ef1',
+            'lod2': 'a6439e10',
+            'lod3': '6f152a20',
+            'lod4': '5b610f5d',
         },
-        'format': '5 t=b0d30838',
+        'format': 'BC7_UNORM',
     },
 
-    # 贴图组 卡提希娅_10 (3 t=423ec9ce)
+    # 贴图组 卡提希娅_10 (BC7_UNORM_SRGB)
     '卡提希娅_10': {
-        'lod0_hash': 'Components',  # 4.00MB
+        'lod0_hash': '423ec9ce',
         'other_lods': {
-            'lod1': 'a23cf7f8',  # 1.00MB
-            'lod2': '760b839c',  # 256.14KB
-            'lod3': '5e3a94c4',  # 64.14KB
-            'lod4': 'cc13003c',  # 16.14KB
+            'lod1': 'a23cf7f8',
+            'lod2': '760b839c',
+            'lod3': '5e3a94c4',
+            'lod4': 'cc13003c',
         },
-        'format': '3 t=423ec9ce',
+        'format': 'BC7_UNORM_SRGB',
     },
 
-    # 贴图组 卡提希娅_11 (7 t=c5b7aee2)
+    # 贴图组 卡提希娅_11 (BC7_UNORM)
     '卡提希娅_11': {
-        'lod0_hash': 'Components',  # 4.00MB
+        'lod0_hash': 'c5b7aee2',
         'other_lods': {
-            'lod1': '64298f07',  # 64.14KB
-            'lod2': '605cbb6e',  # 16.14KB
-            'lod3': 'd4c180ea',  # 4.14KB
+            'lod1': '64298f07',
+            'lod2': '605cbb6e',
+            'lod3': 'd4c180ea',
         },
-        'format': '7 t=c5b7aee2',
+        'format': 'BC7_UNORM',
     },
 
-    # 贴图组 卡提希娅_13 (7 t=1f426e73)
+    # 贴图组 卡提希娅_12 (BC1_UNORM_SRGB)
+    '卡提希娅_12': {
+        'lod0_hash': '6e8ec071',
+        'other_lods': {
+        },
+        'format': 'BC1_UNORM_SRGB',
+    },
+
+    # 贴图组 卡提希娅_13 (BC7_UNORM_SRGB)
     '卡提希娅_13': {
-        'lod0_hash': 'Components',  # 4.00MB
+        'lod0_hash': '1f426e73',
         'other_lods': {
-            'lod1': '70efc034',  # 4.14KB
+            'lod1': '70efc034',
         },
-        'format': '7 t=1f426e73',
+        'format': 'BC7_UNORM_SRGB',
     },
 
-    # 贴图组 卡提希娅_14 (4 t=052142b5)
+    # 贴图组 卡提希娅_14 (BC7_UNORM)
     '卡提希娅_14': {
-        'lod0_hash': 'Components',  # 4.00MB
+        'lod0_hash': '052142b5',
         'other_lods': {
-            'lod1': '71a1aaaa',  # 64.14KB
-            'lod2': '874a43f2',  # 16.14KB
-            'lod3': 'bedc36e6',  # 16.14KB
+            'lod1': '71a1aaaa',
+            'lod2': '874a43f2',
+            'lod3': 'bedc36e6',
         },
-        'format': '4 t=052142b5',
+        'format': 'BC7_UNORM',
     },
 
-    # 贴图组 卡提希娅_15 (4 t=51638d38)
+    # 贴图组 卡提希娅_15 (BC7_UNORM_SRGB)
     '卡提希娅_15': {
-        'lod0_hash': 'Components',  # 4.00MB
+        'lod0_hash': '51638d38',
         'other_lods': {
-            'lod1': 'c6c1eaf5',  # 16.14KB
-            'lod2': '7c2a8c3e',  # 4.14KB
+            'lod1': 'c6c1eaf5',
+            'lod2': '7c2a8c3e',
         },
-        'format': '4 t=51638d38',
+        'format': 'BC7_UNORM_SRGB',
     },
 
     # 贴图组 卡提希娅_16 (BC7_UNORM_SRGB)
     '卡提希娅_16': {
-        'lod0_hash': '8ad0be93',  # 4.14KB
+        'lod0_hash': '8ad0be93',
         'other_lods': {
         },
         'format': 'BC7_UNORM_SRGB',
@@ -152,50 +169,59 @@ texture_groups = {
 
     # 贴图组 卡提希娅_17 (BC1_UNORM_SRGB)
     '卡提希娅_17': {
-        'lod0_hash': '923d8c06',  # 512.14KB
+        'lod0_hash': '923d8c06',
         'other_lods': {
-            'lod1': 'Components',  # 512.14KB
-            'lod2': 'Components',  # 512.14KB
+            'lod1': '923d8c06',
+            'lod2': '923d8c06',
         },
         'format': 'BC1_UNORM_SRGB',
     },
 
     # 贴图组 卡提希娅_18 (BC3_UNORM_SRGB)
     '卡提希娅_18': {
-        'lod0_hash': 'bb9d48f1',  # 64.14KB
+        'lod0_hash': 'bb9d48f1',
         'other_lods': {
         },
         'format': 'BC3_UNORM_SRGB',
     },
 
-    # 贴图组 卡提希娅_20 (2 t=2d14e92d)
+    # 贴图组 卡提希娅_19 (DDS)
+    '卡提希娅_19': {
+        'lod0_hash': 'fb32025d',
+        'other_lods': {
+            'lod1': 'd10e2ae1',
+        },
+        'format': 'DDS',
+    },
+
+    # 贴图组 卡提希娅_20 (DDS)
     '卡提希娅_20': {
-        'lod0_hash': 'Components',  # 1.00MB
+        'lod0_hash': '2d14e92d',
         'other_lods': {
         },
-        'format': '2 t=2d14e92d',
+        'format': 'DDS',
     },
 
-    # 贴图组 卡提希娅_21 (3 t=7f08cd4f)
+    # 贴图组 卡提希娅_21 (DDS)
     '卡提希娅_21': {
-        'lod0_hash': 'Components',  # 4.00MB
+        'lod0_hash': '7f08cd4f',
         'other_lods': {
         },
-        'format': '3 t=7f08cd4f',
+        'format': 'DDS',
     },
 
-    # 贴图组 卡提希娅_22 (7 t=83537519)
+    # 贴图组 卡提希娅_22 (BC7_UNORM_SRGB)
     '卡提希娅_22': {
-        'lod0_hash': 'Components',  # 256.14KB
+        'lod0_hash': '83537519',
         'other_lods': {
-            'lod1': 'f29f0e66',  # 16.14KB
+            'lod1': 'f29f0e66',
         },
-        'format': '7 t=83537519',
+        'format': 'BC7_UNORM_SRGB',
     },
 
     # 贴图组 卡提希娅_23 (BC1_UNORM_SRGB)
     '卡提希娅_23': {
-        'lod0_hash': 'f69958a2',  # 512.14KB
+        'lod0_hash': 'f69958a2',
         'other_lods': {
         },
         'format': 'BC1_UNORM_SRGB',
